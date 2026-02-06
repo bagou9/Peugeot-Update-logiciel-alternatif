@@ -1,6 +1,6 @@
 # Peugeot-Update-logiciel-alternatif
 
-alternantive au Peugeot Update officiel, donnant comme avantage:
+alternative au Peugeot Update officiel, donnant comme avantage:
 logiciel 32bits
 reprise des téléchargements supporté
 
