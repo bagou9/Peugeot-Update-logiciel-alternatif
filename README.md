@@ -4,6 +4,9 @@ alternantive au Peugeot Update officiel, donnant comme avantage:
 logiciel 32bits
 reprise des téléchargements supporté
 
+lien sujet forum:
+https://www.forum-peugeot.com/Forum/threads/app-peugeot-update-logiciel-alternatif-multi-os-v1-5-2-15-10-2021.119707/
+
 Pré-requis:
 application créée en DotNet, donc pour Windows. (possible d'être émulé sur d'autres OS...)
 avoir le framework 4.0 minimum d'installé
